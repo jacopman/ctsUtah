@@ -1,0 +1,22 @@
+body {
+	background: url(../pictures/background.jpg) no-repeat center center fixed;
+	webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+}
+h1 {
+	font-size: 24px;
+	opacity: 97%;
+}
+#important_information {
+	color: red;
+	font-style: italic;
+	text-align: center;
+	font-size: 34px;
+
+}
+#link {
+	color: blue;
+	font-size: 23px;
+	text-align: relative;
+}
